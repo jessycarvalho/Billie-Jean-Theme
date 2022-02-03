@@ -1,0 +1,21 @@
+{
+    "name": "billie-jean",
+    "displayName": "Billie Jean",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Billie Jean",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Billie Jean-color-theme.json"
+            }
+        ]
+    }
+}
